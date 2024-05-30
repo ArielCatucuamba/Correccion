@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Esto es lo que voy a agregar
 public class hotel {
     //Atributos
     public String nombre;
